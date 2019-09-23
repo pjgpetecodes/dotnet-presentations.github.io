@@ -89,7 +89,7 @@ Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2
 ### [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
 A step-by-step, self-paced tutorial for learning the basics of the actor model and Akka.NET syntax. You'll learn how to create your own actors, how to use them to build highly concurrent applications safely and easily, and you'll learn how to integrate actors with other popular .NET technologies such as the Task and Parallelism Library (TPL.)
 
-### [.NET Core with the Raspberry Pi](https://www.petecodes.co.uk/explorations-in-dot-net-core-3-0-for-raspberry-pi/)
+### [.NET Core 3.0 with the Raspberry Pi](https://www.petecodes.co.uk/explorations-in-dot-net-core-3-0-for-raspberry-pi/)
 A series of blog posts on using .NET Core 3 with the Raspberry Pi, including spinning up a Blazor App, A Hello World LED App, a Button App and hooking up to Azure IoT Hubs. 
 
 ## Got a suggestion or fix?
